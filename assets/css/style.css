@@ -1,0 +1,10 @@
+.min-w-460{
+    min-width: 460px;
+}
+::placeholder{
+color: black;
+}
+input{
+    border: 2px solid black;;
+    padding: 10px;
+}
